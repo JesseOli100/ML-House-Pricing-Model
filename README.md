@@ -6,7 +6,7 @@ Want to hire me? Check out my LinkedIn here: https://www.linkedin.com/in/jesse-o
 
 Want to comission me for a project? Check out my Upwork profile here: https://www.upwork.com/freelancers/~0193f57dd84700cb81
 
-Melbourne Housing Price Prediction (Laptop-Safe ML Model)
+# Melbourne Housing Price Prediction (Laptop-Safe ML Model)
 
 A lightweight machine learning project that predicts housing prices using structured property data from Melbourne.
 
